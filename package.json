@@ -1,5 +1,5 @@
 {
-  "name": "vben-admin",
+  "name": "template-pcadmin-antd",
   "version": "2.8.0",
   "author": {
     "name": "vben",
@@ -133,7 +133,6 @@
     "vue-tsc": "^0.28.10"
   },
   "resolutions": {
-    "//": "Used to install imagemin dependencies, because imagemin may not be installed in China. If it is abroad, you can delete it",
     "bin-wrapper": "npm:bin-wrapper-china",
     "rollup": "^2.56.3"
   },
